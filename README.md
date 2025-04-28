@@ -1,8 +1,4 @@
-# Tour-Project
-
-<b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> <br>
-[Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/VaishnaviAnde/Tourism-Website/issues/10) <br>
-[Enhancement: Separate Pages For Popular Packages ](https://github.com/VaishnaviAnde/Tourism-Website/issues/9) <br><br>
+This is a Tour and Travel website developed using HTML, CSS, JavaScript, and PHP. The front end is designed with HTML, CSS, and JavaScript, while PHP is used to handle the backend functionality — mainly to store contact form information into a database. The main page of the website is main.html.
 DEMO-> https://vaishnaviande.github.io/Toursim-Webiste/
 Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
